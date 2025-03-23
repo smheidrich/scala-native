@@ -4,7 +4,9 @@
 
 **Q:** How do I make the resulting executable smaller?
 
-**A:** Compress the binary with <https://upx.github.io/>
+**A:** Compress the binary with <https://upx.github.io/>. For example, this can
+bring down the size of a typical "Hello, World!" executable from around 1.5 MB
+to 500 kB.
 
 \-\--
 
